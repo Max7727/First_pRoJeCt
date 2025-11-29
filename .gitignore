@@ -1,8 +1,9 @@
+_MyNotes.docx
 
 
-
-# Ignore a folder
+# Ignore an entire folder
 History/
+__Previews/
 
 # Ignore by extension
 *.PrjPcbStructure
